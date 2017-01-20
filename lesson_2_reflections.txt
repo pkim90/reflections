@@ -4,4 +4,11 @@ Initializing a repository creates a .git file which allows Git to start to keep
 track of it. We need to do it in order to use Git and the various Git functions.
 
 -----
+How is the staging area different form the working directory and the repository?
+What value do you think it offers?
+
+The staging area is the "escrow" kind of thing. We can change stuff around until
+We can change htings until we see a change we want to make. Something like that...
+
+-----
 
