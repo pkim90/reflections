@@ -11,4 +11,45 @@ The staging area is the "escrow" kind of thing. We can change stuff around until
 We can change htings until we see a change we want to make. Something like that...
 
 -----
+How can you use the staging area to make sure you have one commit per logical change?
+
+Typically when you want one logical change then it should change in one file.
+Using git status you can see what has changed and what is inside the staging
+area. So you can add each thing to the staging area and make commits one at a time.
+
+-----
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+This one is so easy. So a branch allows you to work on a different aspect of 
+the program while not messing with the current/stable/master version. You can
+also name the branches instead of trying to checkout some random jumble of 
+numbers and letters.
+
+-----
+How do diagrams help you visualize the branch structure?
+
+The branches and especially the diagrams show a picture of how and what commits
+are included in each branch. It is pretty self explanatory really, and it works
+incredibly well.
+
+-----
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Result of merging is actually adding the "unstable/experimental" features into
+the stable features. It is represented in the diagram in that way because it
+makes sense, the branches are merging together to be one branch because they
+are merged.
+
+-----
+What are the pros and cons of git's automatic merging vs always doing merges
+manually?
+
+To be honest I'm not sure how to answer this question. Maybe I should sleep on
+what I've learned so far. If I had to guess then I would say that hte pros of
+git's automatic merging is that it is quick and easy whereas a con would be
+that stuff is broken and doesn't wokr well. Vice versa for doing merges manually.
+
+-----
 
