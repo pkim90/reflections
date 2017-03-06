@@ -35,4 +35,15 @@ fetch/merge etc.
 
 ---------
 
+How would you collaborate without using Git or github? What would be easier, and
+what would be harder?
+
+I would probably do it over email. It would get difficult when there are more
+people collaborating though. I see the use of Github and Git. When you learn
+how to use Git then it becomes easy, and when you learn how to use Github
+then sharing to the world and checking suggestions and making htose changes
+available to everyone then becomes so much easier.
+
+-----------
+
 
