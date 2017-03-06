@@ -46,4 +46,17 @@ available to everyone then becomes so much easier.
 
 -----------
 
+When would you want tomake changes in a seperate branch rather than directly
+ in master? What benefits does each apporach have?
+
+Let's start with the benefits of working only in Master branch. You can do this 
+but keep in mind that you cannot work on experimental features without messing
+up your stable working product. Likewise, working with branches is much more
+complicated but you can work on experimental features and other people can 
+help recommend things and you can bring those recommendations down to your local
+repository and check them out and all without messing with your stable master 
+branch.
+
+-----------
+
 
