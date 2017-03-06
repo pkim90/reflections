@@ -26,4 +26,13 @@ there is 100% going to be different stuff, but jus' sayin...
 
 ---------
 
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+The benefit is that we can see what hte state of the remote repository is. 
+We can find out if we are ahead, or how much ahead we are, or if we should
+fetch/merge etc.
+
+---------
+
 
